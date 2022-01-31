@@ -1,2 +1,2 @@
 # react_demo
-introduction to react
+introduction to react and angular
